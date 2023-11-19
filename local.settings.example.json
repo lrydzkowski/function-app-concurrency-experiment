@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "SERVICE_BUS_QUEUE_CONNECTION_STRING": "",
+    "REDIS_HOST": "",
+    "REDIS_PORT": "6380",
+    "REDIS_PASSWORD": ""
+  }
+}
